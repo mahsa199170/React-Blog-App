@@ -12,7 +12,7 @@ const Home = () => {
     <div className='home'>
         {error && <div>{error}</div> }
         {isPending && <div>Loading...</div>}
-        {blogs && <BlogList blogs ={blogs} title = "All Blogs!"/>}
+        {blogs && <BlogList blogs ={blogs} title = "All Blogs!" style={{ color: '#245953' }}/>}
 
   
     </div>

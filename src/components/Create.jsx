@@ -30,7 +30,7 @@ const Create = () => {
   }
   return (
     <div className="create">
-        <h1>add a new blog</h1>
+        <h1>Add a new blog</h1>
         <form onSubmit={handleSubmit}>
           <label> Blog title:</label>
           <input 
