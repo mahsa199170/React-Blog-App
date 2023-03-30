@@ -1,7 +1,7 @@
 # React-Blog-App
 
 
-**React Blog App**
+**React Blog App**<br>
 This is a simple blog application built with React, using React hooks and React router. The blog posts are stored in a JSON file and served with JSON server.
 
 
